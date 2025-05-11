@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vedranbrozovic
 - 👀 I’m interested in ... finance & analytics, data science, basketball...
-- 🌱 I’m currently learning ... Python, R, SQL
+- 🌱 I’m currently learning ... Python, SQL, playing around with GenAI 
 - 💞️ I’m looking to collaborate on ... open data projects, sports analytics
 - 📫 How to reach me ... you can find me on LinkedIn: https://www.linkedin.com/in/vedranbrozovic
 
