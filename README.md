@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vedranbrozovic - check out my personal web vedranbrozovic.com
+- 👋 Hi, I’m @vedranbrozovic - check out my personal web https://www.vedranbrozovic.com
 - 👀 I’m interested in ... finance & analytics, data science, basketball...
 - 🌱 I’m currently learning ... Python, SQL, playing around with GenAI 
 - 💞️ I’m looking to collaborate on ... open data projects, sports analytics
